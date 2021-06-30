@@ -3,16 +3,21 @@
 이 레파지토리는 PACEMAKE의 웹 클라이언트를 포함합니다.<br />
 PACEMAKER가 무엇인지에 대해서는 '다음'을 참고하세요.
 
-## 다이어그램
+## Diagrams
 
+### Usecase Diagram
 ![UseCase_v2](https://user-images.githubusercontent.com/30566564/123925630-1096c380-d9c6-11eb-918c-68090fd13b8f.jpg)
 
+### Domain Model
 ![DomainModel](https://user-images.githubusercontent.com/30566564/123924724-340d3e80-d9c5-11eb-96c6-26f298987bcf.jpg)
 
+### React Components Tree
 ![pacemaker_component_tree](https://user-images.githubusercontent.com/30566564/123924707-31124e00-d9c5-11eb-979b-3b8aa36d858f.jpg)
 
+### Redux Stores Structure
 ![redux_store_diagram](https://user-images.githubusercontent.com/30566564/123924791-438c8780-d9c5-11eb-8e5f-739bb0125ead.jpg)
 
+### Deployment Diagram
 ![DeploymentDiagram](https://user-images.githubusercontent.com/30566564/123925621-0ecd0000-d9c6-11eb-827c-6f8e69fed502.jpg)
 
 ## 기반
