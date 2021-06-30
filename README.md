@@ -3,6 +3,18 @@
 이 레파지토리는 PACEMAKE의 웹 클라이언트를 포함합니다.<br />
 PACEMAKER가 무엇인지에 대해서는 '다음'을 참고하세요.
 
+## 다이어그램
+
+![UseCase_v2](https://user-images.githubusercontent.com/30566564/123925630-1096c380-d9c6-11eb-918c-68090fd13b8f.jpg)
+
+![DomainModel](https://user-images.githubusercontent.com/30566564/123924724-340d3e80-d9c5-11eb-96c6-26f298987bcf.jpg)
+
+![pacemaker_component_tree](https://user-images.githubusercontent.com/30566564/123924707-31124e00-d9c5-11eb-979b-3b8aa36d858f.jpg)
+
+![redux_store_diagram](https://user-images.githubusercontent.com/30566564/123924791-438c8780-d9c5-11eb-8e5f-739bb0125ead.jpg)
+
+![DeploymentDiagram](https://user-images.githubusercontent.com/30566564/123925621-0ecd0000-d9c6-11eb-827c-6f8e69fed502.jpg)
+
 ## 기반
 
 이 프로젝트는 CRA를 기반으로 하고있습니다.<br />
@@ -28,7 +40,7 @@ PACEMAKER가 무엇인지에 대해서는 '다음'을 참고하세요.
 
 현재 이 프로젝트는 1920x960(FHD에서 전체화면을 하지 않은 브라우저의 View)에 최적화되어 있습니다.<br />
 이외의 해상도에서는 정상 작동을 보장할 수 없습니다!<br />
-테스트시에는 1920x1080 통상화면이나 1920x960의 전체화면을 설정하시기 바랍니다.
+테스트시에는 1920x1080 통상화면이나 1920x1000의 전체화면을 설정하시기 바랍니다.
 
 ## CRA README Default
 
